@@ -5,7 +5,7 @@ public class LoginTest {
 	@Test
 	void login()
 	{
-		System.out.println("LOGIN TEST FUNCTIONALITY");
+		System.out.println("LOGOUT TEST FUNCTIONALITY");
 	}
 
 }
